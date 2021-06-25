@@ -1,4 +1,4 @@
-# [Multi_Tag_Prediction](https://multitag.herokuapp.com/)
+# [Multi_Tag_Recommendation](https://multitag.herokuapp.com/)
 
 This repository contains files for this end-to-end Project (From Scraping to WebApp).
 The app is made with [Dash](https://plotly.com/dash/) interactive python framework developed by [Plotly](https://plotly.com/).
