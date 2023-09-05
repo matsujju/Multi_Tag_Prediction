@@ -70,7 +70,7 @@ fsspec @ file:///tmp/build/80754af9/fsspec_1602684995936/work
 future==0.18.2
 gevent @ file:///C:/ci/gevent_1601397627942/work
 gitdb==4.0.5
-GitPython==3.1.11
+GitPython==3.1.33
 glob2==0.7
 greenlet @ file:///C:/ci/greenlet_1600885448389/work
 h5py==2.10.0
